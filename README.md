@@ -1,1 +1,1 @@
-new Project be Academy
+new Project by Academy
