@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10" width="10" height="10">
+	<title>header main</title>
+	<defs>
+		<image width="10" height="10" id="img1" href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxNS4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB3aWR0aD0iMTBweCIgaGVpZ2h0PSIxMHB4IiB2aWV3Qm94PSIwIDAgMTAgMTAiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDEwIDEwIiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxyZWN0IHg9IjgiIHk9IjIiIHdpZHRoPSIxLjk4NCIgaGVpZ2h0PSI4Ii8+DQo8cmVjdCB5PSIzIiB3aWR0aD0iMS45ODQiIGhlaWdodD0iNyIvPg0KPHJlY3QgeD0iNCIgd2lkdGg9IjIiIGhlaWdodD0iMTAiLz4NCjwvc3ZnPg0K"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="header main">
+		<use id="compare" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+	</g>
+</svg>

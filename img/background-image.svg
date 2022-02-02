@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="160" height="160">
+	<title>popular</title>
+	<defs>
+		<image  width="160" height="160" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAACgAQMAAACxAfVuAAAAAXNSR0IB2cksfwAAAAZQTFRF8MUu8MUuDnJCZAAAAAJ0Uk5T/v/Rru6GAAAAJElEQVR4nO3IQREAAAwCIPuX3gqYwIMnSXOFlFJKKaWUUu5k80Y7TF3tw7XDAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="popular">
+		<use id="Layer 9 copy 7" style="opacity: 0.502" href="#img1" x="0" y="0" />
+	</g>
+</svg>
